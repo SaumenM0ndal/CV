@@ -1,1 +1,1 @@
-# A basic HTML website implementation of my CV
+# A basic HTML implementation of my CV
